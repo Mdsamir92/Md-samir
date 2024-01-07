@@ -1,4 +1,4 @@
-[!MasterHead](https://d1ub0o53i85pdh.cloudfront.net/uploads/2021/09/Facebook-Linkedin-image-template-10.jpg)
+![MasterHead](https://d1ub0o53i85pdh.cloudfront.net/uploads/2021/09/Facebook-Linkedin-image-template-10.jpg)
 <h1 align="center">Hi 👋, I'm Mohammad Samir</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
